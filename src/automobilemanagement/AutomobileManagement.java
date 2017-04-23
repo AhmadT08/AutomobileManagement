@@ -17,7 +17,11 @@ public class AutomobileManagement {
     public static void main(String[] args) {
         // TODO code application logic here
 
+<<<<<<< HEAD
         System.out.println("shawky");
+=======
+        System.out.println("Battout");
+>>>>>>> 7d6f9980c148b5bb9eada369f6115623dbf403cc
 
     }
     
