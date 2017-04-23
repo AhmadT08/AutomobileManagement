@@ -16,7 +16,7 @@ public class AutomobileManagement {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("dsfaioj");
+        System.out.println("osama");
     }
     
 }
